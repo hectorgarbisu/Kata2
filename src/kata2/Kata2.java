@@ -28,7 +28,7 @@ public class Kata2 {
             elderPeople.add(value);
         }
         for (Integer value : elderPeople) {
-            System.out.println(value);
+            System.out.println(value); //
         }
 }
 }
